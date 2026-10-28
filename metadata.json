@@ -1,0 +1,6 @@
+{
+  "name": "PayPal Open - Commerce & Payments Platform",
+  "description": "A modern landing page and dashboard preview inspired by PayPal Open, featuring commerce solutions, developer APIs, and financial analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
